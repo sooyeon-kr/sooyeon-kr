@@ -3,6 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Palanquin&weight=500&size=45&pause=1000&color=009FF7&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi%2C+there!+I'm+SooYeon!" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+    <b>함께</b>, <b>빠르게 성장</b>하고 싶은 개발자
+</div>
+
 <h3> 👩🏻‍💻 Tech Stacks </h3>
 <div>
 <!-- 언어 -->
@@ -70,10 +74,9 @@
 
 
 
-<h3> Stat </h3>
+<h3> 🐾 Stat </h3>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oriossi)
 
 ![sooyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeon-kr&amp;show_icons=true&amp;theme=onedark&hide=scss)
-
 
