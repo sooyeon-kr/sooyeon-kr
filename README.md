@@ -70,10 +70,11 @@
 
 
 
-<h3> Stat </h3>
+<h3> 📊 Stat </h3>
+<div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oriossi" alt="Solved.ac Profile" style="height: 198px"><br />
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oriossi)
-
-![sooyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeon-kr&amp;show_icons=true&amp;theme=onedark&hide=scss)
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sooyeon-kr&amp;show_icons=true&amp;&hide=scss" alt="sooyeon's GitHub stats" style="height: 170px"><br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeon-kr&amp;layout=compact" alt="Top Langs" style="height: 223px">
+</div>
