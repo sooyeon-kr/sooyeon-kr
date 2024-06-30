@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
 <div>
@@ -27,6 +28,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 
 <div>
@@ -40,6 +42,8 @@
 <img src="https://img.shields.io/badge/Amazon EC2-F9900?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </div>
 
 <h3> 📚 Education </h3>
@@ -57,6 +61,7 @@
 
 | 기간                | 내용                                           |
 |---------------------|:------------------------------------------------:|
+| 2024.06 ~ 2024.06   | openAPI를 활용한 주식 포트폴리오 구독 서비스  | 
 | 2024.05 ~ 2024.05   | 재능을 주고 받을 수 있는 1:1 웹 기반의 화상 서비스  | 
 | 2023.05 ~ 2023.05   | 공공데이터를 활용하여 관광지 검색 기능을 제공하는 웹서비스 |
 | 2022.12 ~ 2022.12   | 2022 한국정보과학회 한국컴퓨터종합학술대회 학부생부문 논문 투고 |
